@@ -1,0 +1,36 @@
+﻿Stock Index,Trickers,Currency,Region,Source ,FromYahoo
+Thailand,SETI,THB,Asean,www.investing.com,0
+Singapore,^STI,SGD,Asean,finance.yahoo.com,1
+Malaysia,^KLSE,MYR,Asean,finance.yahoo.com,1
+Indonesia,^JKSE,IDR,Asean,finance.yahoo.com,1
+Philippines,PSEI.PS,PHP,Asean,finance.yahoo.com,1
+Vietnam,VNI,VND,Asean,www.investing.com,0
+Hong Kong,^HSI,HKD,Asia,finance.yahoo.com,1
+China,399001.SZ, CNY,Asia,finance.yahoo.com,1
+South Korea,^KS11,KRW,Asia,finance.yahoo.com,1
+Japan,^N225,JPY,Asia,finance.yahoo.com,1
+Australia,^AORD,AUD,Oceania,finance.yahoo.com,1
+New Zealand,^NZ50,NZD,Oceania,finance.yahoo.com,1
+Taiwan,^TWII,TWD,Asia,finance.yahoo.com,1
+India,^NSEI,INR,Asia,finance.yahoo.com,1
+USA,^DJI,USD,North America,finance.yahoo.com,1
+USA NY ,^NYA,USD,North America,finance.yahoo.com,1
+USA Chicago,^RUT,USD,North America,finance.yahoo.com,1
+USA Toronto,^GSPTSE,USD,North America,finance.yahoo.com,1
+NASDAQ ,^IXIC,USD,North America,finance.yahoo.com,1
+GB,^FTSE,GBP,UK,finance.yahoo.com,1
+German,^GDAXI,EUR,EU,finance.yahoo.com,1
+Paris,^FCHI,EUR,EU,finance.yahoo.com,1
+Zurich,^STOXX50E,EUR,EU,finance.yahoo.com,1
+Brussels,^BFX,EUR,EU,finance.yahoo.com,1
+Russia,IMOEX.ME,RUB,EU,finance.yahoo.com,1
+Sao Paolo(Brazilian),^BVSP,BRL,South America,finance.yahoo.com,1
+Mexico,^MXX,MXN,South America,finance.yahoo.com,1
+Santiago(Chile),^IPSA,CLP,South America,finance.yahoo.com,1
+Buenos Aires(Argentina),^MERV,USD,South America,finance.yahoo.com,1
+Tel Aviv(Israel),^TA125.TA,ILS,EU,finance.yahoo.com,1
+Egyptian,^CASE30,EGP,Africa,finance.yahoo.com,0
+Johannesburg(South Africa),^JN0U.JO,USD,Africa,finance.yahoo.com,1
+Gold,GC=F,USD,Other,finance.yahoo.com,1
+Crude Oil,CL=F,USD,Other,finance.yahoo.com,1
+Bitcoin USD,BTC-USD,USD,Other,finance.yahoo.com,1
